@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">applicationflash</string>
+    <string name="on">Flash is On!</string>
+    <string name="off">Flash is Off!</string>
+    <string name="fieldhint">Please enter a sentence to translate into morsecode</string>
+
+</resources>
